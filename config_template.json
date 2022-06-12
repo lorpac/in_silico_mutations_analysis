@@ -1,0 +1,12 @@
+{
+    "name": "1be9_Repair_matrix_GCAT_all",
+    "pdb_wt": "1be9_Repair",
+    "pdbs_wt_path": null,
+    "pdbs_mut_path": "1be9_Repair_pdbs_mutants",
+    "select_positions": false,
+    "start": null,
+    "stop": null,
+    "selected_chains" : "A",
+    "cutoff": 5,
+    "dim": "all"
+}
